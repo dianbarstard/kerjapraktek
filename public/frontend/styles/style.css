@@ -1,0 +1,98 @@
+body {
+    background-color: #FFE3EC;
+    font-family: 'Poppins',sans-serif;
+    color: #000;
+}
+
+.navbar-brand img {
+    margin-left: 55px;
+    max-height: 65px;
+}
+
+.navbar-light {
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.1);
+    border: 1px #000;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    font-weight: Lighter;
+    color: #C12A5D;
+}
+
+.hero .header-name {
+    margin-top: 104px;
+}
+.hero .header-name p {
+    margin-left: 30px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    color: #000;
+}
+
+.hero .hi {
+    color: #C12A5D;
+}
+
+.hero h1 {
+    color: #000;
+    font-size: 30px;
+    font-family: 'Arvo',sans-serif;
+}
+
+.hero h2 {
+    color: #C12A5D;
+    font-size: 14px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: normal;
+    margin-left: 18px;
+    margin-top: 20px;
+    margin-bottom: 55px;
+}
+
+.email {
+    font-family: 'Roboto',sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: 30px;
+}
+
+.isi {
+    font-family: 'Roboto',sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #000;
+}
+
+.hire-me {
+    font-family: 'Roboto',sans-serif;
+    background-color: #C12A5D;
+    box-shadow: 1px 5px 20px #C12A5D;
+    color: #fff;
+    font-size: 13px;
+    padding: 16px 49px;
+    border: none;
+    border-radius: 17px;
+    margin-top: 65px;
+}
+
+.hire-me:hover {
+    color: #fff;
+    background-color: #F53072;
+}
+
+.get-cv {
+    font-family: 'Roboto',sans-serif;
+    background-color: transparent;
+    color: #C12A5D;
+    font-size: 13px;
+    padding: 16px 49px;
+    border: none;
+    border-radius: 17px;
+    margin-top: 65px;
+    border: solid 0.1px #C12A5D;
+}
